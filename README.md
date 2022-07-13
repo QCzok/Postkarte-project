@@ -1,40 +1,33 @@
-# christmas-project
+# Postkarte
 
 ## Aufgabenstellung - Teil 1
-Schreibe eine Webseite mit HTML und CSS, die wie eine Weihnachtskarte aussieht.
+Schreibe eine Webseite mit HTML und CSS, die wie eine Urlaubs Postkarte aussieht.
 
-Mit der Webseite möchtest du deinen Freunden und Verwandten ein frohes Fest und ein erfolgreiches neues Jahr wünschen.
+Mit der Webseite möchtest du deine Freunden und Verwandten grüßen.
 
 Schreibe deine HTML mit folgenden Inhalten
 1. Ein Willkommenstext
-2. Ein Weihnachtsgruß
-3. Ein Weihnachtsspruch für das Jahr 2021
-4. Bilder und Icons passend zur Advenszeit.
+2. Ein Urlaubsgruß
+3. Ein Zitat
+4. Bilder und Icons passend zum Sommer.
 
 ## Beispiel:
 
-
 Liebe Freunde, Verwandte und Besucher!
 
-es heißt: zur Weihnachtszeit werden Wünsche wahr! 
+Aus unserem wundervollen Urlaub schicke ich Euch die schönsten Grüße. 
 
-Darum wünschen wir Euch Glück, Zufriedenheit und Gesundheit!
-
-Wir wünschen Euch ein frohes Weihnachtsfest und ein gesundes Neues Jahr.
+Ich freue mich darauf, Euch nach unserer Rückkehr alles zu erzählen.
 
 Herzliche Grüße
 
 Eure DCI
 
-„Die Weihnachtswelt ist voller Boten,
-
-und einige sind unterwegs zu dir!“
-
-(Albrecht Goes)
+„Wenn das ganze Jahr Urlaub wäre, wäre das Vergnügen so langweilig wie die Arbeit!“
 
 ## Aufgabenstellung - Teil 2
 Verwende CSS, um
-1. Einen weihnachtlichen Hintergrund zu setzen
-2. Deinen Weihnachtsgruß hervorzuheben
+1. Einen sommerlichen Hintergrund zu setzen
+2. Deinen Gruß hervorzuheben
 3. Dein Zitat in einen Rahmen zu setzen
 4. Bilder und Icons zu positionieren
